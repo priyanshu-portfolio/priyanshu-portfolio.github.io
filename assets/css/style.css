@@ -1163,9 +1163,11 @@ section {
 }
 
 #footer .copyright {
+  color: #f7f8f9;
   margin: 0 0 5px 0;
 }
 
 #footer .credits {
+  color: #f7f8f9;
   font-size: 13px;
 }
